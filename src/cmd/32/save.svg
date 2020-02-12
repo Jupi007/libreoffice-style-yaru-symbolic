@@ -11,7 +11,10 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="save.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:export-filename="/home/jupiter007/Libreoffice yaru theme/build/cmd/32/save.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -20,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,9 +42,9 @@
      inkscape:window-height="1011"
      id="namedview8"
      showgrid="true"
-     inkscape:zoom="20.85965"
-     inkscape:cx="1.2542275"
-     inkscape:cy="12.199117"
+     inkscape:zoom="8"
+     inkscape:cx="-41.233713"
+     inkscape:cy="36.443535"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
