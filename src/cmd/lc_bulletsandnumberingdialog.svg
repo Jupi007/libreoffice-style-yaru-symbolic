@@ -39,8 +39,8 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="19.666667"
-     inkscape:cx="1.4057451"
-     inkscape:cy="14.066634"
+     inkscape:cx="-2.3823904"
+     inkscape:cy="13.303922"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -51,12 +51,10 @@
   </sodipodi:namedview>
   <path
      d="m5 4v1h1v2h-1v1h3v-1h-1v-2h1v-1zm-1 6v1h1v2h-1v1h5v-1h-1v-2h1v-1zm2 1h1v2h-1z"
-     fill="#762572"
-     id="path2" />
+     id="path2"
+     fill="#762572" />
   <path
-     d="m 11,4 v 1 h 9 V 4 Z m 0,2 v 1 h 9 V 6 Z m 0,4 v 1 h 9 v -1 z m 0,2 v 1 h 9 v -1 z m -0.09375,6 C 10.390872,18.048525 9.9977206,18.482347 10,19 c 0,0.552285 0.447715,1 1,1 0.552285,0 1,-0.447715 1,-1 0,-0.552285 -0.447715,-1 -1,-1 -0.03123,-0.0015 -0.06252,-0.0015 -0.09375,0 z m 4,0 c -0.515378,0.04853 -0.908529,0.482347 -0.90625,1 0,0.552285 0.447715,1 1,1 0.552285,0 1,-0.447715 1,-1 0,-0.552285 -0.447715,-1 -1,-1 -0.03123,-0.0015 -0.06252,-0.0015 -0.09375,0 z m 4,0 c -0.515378,0.04853 -0.908529,0.482347 -0.90625,1 0,0.552285 0.447715,1 1,1 0.552285,0 1,-0.447715 1,-1 0,-0.552285 -0.447715,-1 -1,-1 -0.03123,-0.0015 -0.06252,-0.0015 -0.09375,0 z"
-     id="path4"
-     inkscape:connector-curvature="0"
+     id="path830"
      style="fill:#232629"
-     sodipodi:nodetypes="ccccccccccccccccccccccssccccssccccsscc" />
+     d="m 11,18 v 1 h 9 v -1 z m 0,-2 v 1 h 9 v -1 z m 0,-4 v 1 h 9 v -1 z m 0,-2 v 1 h 9 v -1 z m 0,-4 v 1 h 9 V 6 Z m 0,-2 v 1 h 9 V 4 Z" />
 </svg>

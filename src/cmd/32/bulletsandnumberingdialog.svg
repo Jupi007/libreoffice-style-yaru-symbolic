@@ -39,8 +39,8 @@
      id="namedview8"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="12.944756"
-     inkscape:cy="15.900915"
+     inkscape:cx="3.8122921"
+     inkscape:cy="13.74364"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -50,13 +50,11 @@
        id="grid822" />
   </sodipodi:namedview>
   <path
-     d="M 11,4 V 5 H 28 V 4 Z m 0,3 V 8 H 28 V 7 Z m 0,7 v 1 h 17 v -1 z m 0,3 v 1 h 17 v -1 z m 0,7 v 1 h 17 v -1 z m 7.90625,2 c -0.515378,0.04853 -0.908529,0.482347 -0.90625,1 0,0.552285 0.447715,1 1,1 0.552285,0 1,-0.447715 1,-1 0,-0.552285 -0.447715,-1 -1,-1 -0.03123,-0.0015 -0.06252,-0.0015 -0.09375,0 z m 4,0 c -0.515378,0.04853 -0.908529,0.482347 -0.90625,1 0,0.552285 0.447715,1 1,1 0.552285,0 1,-0.447715 1,-1 0,-0.552285 -0.447715,-1 -1,-1 -0.03123,-0.0015 -0.06252,-0.0015 -0.09375,0 z m 4,0 c -0.515378,0.04853 -0.908529,0.482347 -0.90625,1 0,0.552285 0.447715,1 1,1 0.552285,0 1,-0.447715 1,-1 0,-0.552285 -0.447715,-1 -1,-1 -0.03123,-0.0015 -0.06252,-0.0015 -0.09375,0 z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#232629"
-     sodipodi:nodetypes="cccccccccccccccccccccccccccssccccssccccsscc" />
-  <path
      d="m4 4v1h1v4h-1v1h3v-1h-1v-4h1v-1h-1-1zm0 10v1h1v4h-1v1h5v-1h-1v-4h1v-1h-3-1zm2 1h1v4h-1z"
      fill="#762572"
      id="path4" />
+  <path
+     id="path830"
+     style="fill:#232629"
+     d="m 11,27 v 1 h 17 v -1 z m 0,-3 v 1 h 17 v -1 z m 0,-7 v 1 h 17 v -1 z m 0,-3 v 1 H 28 V 14 Z M 11,7 V 8 H 28 V 7 Z M 11,4 V 5 H 28 V 4 Z" />
 </svg>

@@ -39,8 +39,8 @@
      id="namedview10"
      showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="15.048651"
-     inkscape:cy="17.351398"
+     inkscape:cx="-8.8496541"
+     inkscape:cy="19.927669"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
@@ -49,18 +49,13 @@
        type="xygrid"
        id="grid821" />
   </sodipodi:namedview>
-  <g
-     transform="matrix(-1 0 0 1 32 0)"
-     id="g6">
-    <path
-       d="M 11,4 V 5 H 28 V 4 Z m 0,3 V 8 H 28 V 7 Z m 0,7 v 1 h 17 v -1 z m 0,3 v 1 h 17 v -1 z m 0,7 v 1 h 17 v -1 z m 7.90625,2 c -0.515378,0.04853 -0.908529,0.482347 -0.90625,1 0,0.552285 0.447715,1 1,1 0.552285,0 1,-0.447715 1,-1 0,-0.552285 -0.447715,-1 -1,-1 -0.03123,-0.0015 -0.06252,-0.0015 -0.09375,0 z m 4,0 c -0.515378,0.04853 -0.908529,0.482347 -0.90625,1 0,0.552285 0.447715,1 1,1 0.552285,0 1,-0.447715 1,-1 0,-0.552285 -0.447715,-1 -1,-1 -0.03123,-0.0015 -0.06252,-0.0015 -0.09375,0 z m 4,0 c -0.515378,0.04853 -0.908529,0.482347 -0.90625,1 0,0.552285 0.447715,1 1,1 0.552285,0 1,-0.447715 1,-1 0,-0.552285 -0.447715,-1 -1,-1 -0.03123,-0.0015 -0.06252,-0.0015 -0.09375,0 z"
-       id="path2"
-       inkscape:connector-curvature="0"
-       style="fill:#232629"
-       sodipodi:nodetypes="cccccccccccccccccccccccccccssccccssccccsscc" />
-    <path
-       d="m9 4v1h-1v4h1v1h-3v-1h1v-4h-1v-1h1 1zm0 10v1h-1v4h1v1h-5v-1h1v-4h-1v-1h3 1zm-2 1h-1v4h1z"
-       fill="#762572"
-       id="path4" />
-  </g>
+  <path
+     style="fill:#762572"
+     inkscape:connector-curvature="0"
+     id="path4"
+     d="m 23,4 v 1 h 1 v 4 h -1 v 1 h 3 V 9 H 25 V 5 h 1 V 4 h -1 -1 z m 0,10 v 1 h 1 v 4 h -1 v 1 h 5 v -1 h -1 v -4 h 1 v -1 h -3 -1 z m 2,1 h 1 v 4 h -1 z" />
+  <path
+     id="path833"
+     style="fill:#232629"
+     d="m 21,27 v 1 H 4 v -1 z m 0,-3 v 1 H 4 v -1 z m 0,-7 v 1 H 4 v -1 z m 0,-3 v 1 H 4 V 14 Z M 21,7 V 8 H 4 V 7 Z M 21,4 V 5 H 4 V 4 Z" />
 </svg>
